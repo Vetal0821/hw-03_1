@@ -1,0 +1,23 @@
+.otstup {
+       margin-bottom: 20px; /* Отступ снизу */
+}
+
+/* сделает ширину таблицы равной ширине блока контейнера, в котором она находится */
+.size-table {
+    width: 600px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    background: white;
+    width: 950px;
+    margin: 0 auto;
+    border-left: 0px solid #e3e3e3;
+    border-right: 0px solid #e3e3e3;
+    padding: 30px 80px;
+}
+
